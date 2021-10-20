@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1920"
+   viewBox="0 0 1080 1920"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="taller hydra.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="1080px"
+     inkscape:zoom="0.30462963"
+     inkscape:cx="648.32827"
+     inkscape:cy="1204.7416"
+     inkscape:window-width="1600"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="66.727604"
+       y="250.89123"
+       width="940.68168"
+       height="1489.8499"
+       id="rect4512" />
+    <rect
+       x="66.727604"
+       y="250.89123"
+       width="940.68168"
+       height="1489.8499"
+       id="rect15082" />
+    <rect
+       x="66.727604"
+       y="250.89123"
+       width="940.68168"
+       height="1489.8499"
+       id="rect24688" />
+    <rect
+       x="66.727604"
+       y="250.89123"
+       width="940.68168"
+       height="1489.8499"
+       id="rect27022" />
+  </defs>
+  <g
+     inkscape:label="BG"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:0.845388"
+       id="rect31"
+       width="1092.7715"
+       height="1940.3678"
+       x="-1.5416603"
+       y="-17.942074" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MENSAJE">
+    <text
+       xml:space="preserve"
+       id="text4510"
+       style="font-style:normal;font-weight:normal;font-size:160px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4512);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.1932205,0,0,1.1932205,-0.2224583,-172.2037)"><tspan
+         x="66.728516"
+         y="392.45312"
+         id="tspan43856"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff"
+           id="tspan43854">Escribir
+</tspan></tspan><tspan
+         x="66.728516"
+         y="594.01562"
+         id="tspan43860"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff"
+           id="tspan43858">Visuales</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text15080"
+       style="font-style:normal;font-weight:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15082);fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(11.067919,373.54404)"><tspan
+         x="66.728516"
+         y="309.87503"
+         id="tspan43864"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+           id="tspan43862">introducción al codigo </tspan></tspan><tspan
+         x="66.728516"
+         y="393.85947"
+         id="tspan43868"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+           id="tspan43866">creativo con Hydra</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text24686"
+       style="font-style:normal;font-weight:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24688);fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(11.667919,1444.0618)"><tspan
+         x="66.728516"
+         y="309.87503"
+         id="tspan43872"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+           id="tspan43870">MODALIDAD 
+</tspan></tspan><tspan
+         x="66.728516"
+         y="393.85947"
+         id="tspan43876"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+           id="tspan43874">PRESENCIAL O VIRTUAL</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text27020"
+       style="font-style:normal;font-weight:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27022);fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(10.867919,1346.5973)"><tspan
+         x="66.728516"
+         y="309.87503"
+         id="tspan43880"><tspan
+           style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+           id="tspan43878">+ INFO POR PRIVADO</tspan></tspan></text>
+  </g>
+</svg>
